@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "The Effect of Data Augmentation and Depth of networks on CNN-based Breast X-ray Image Diagnosis of Pneumonia "
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'

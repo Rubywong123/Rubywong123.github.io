@@ -11,49 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* (expected) B.S. in Computer Science and Technology, Peking University, 2019-2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 2021-Present: Research Assistant
+  * Peking University
+  * Supervisor: Baobao Chang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mar. 2022-Present: Research Assistant
+  * Hong Kong University, NLP Lab
+  * Supervisor: Tao Yu
+
+* Oct. 2021-Mar. 2022: Intern
+  * AI Innovation Center, Peking University
+  * Discussions about applications and trends in CV/NLP/DL.
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Please refer to [Homepage](https://Rubywong123.github.io/).
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Teaching Assistant
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Spring 2022: *Design of Digital Logic*
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* PKU 2022 Winter/ 2021 Summer School for Excellent Middle School Students. Class Advisor.
+* Sep. 2019 - Jun. 2020: Operation Dept, PKU EECS Student Union. Member.
+
+Skills
+======
+* C/C++/Python/SQL/Verilog.
