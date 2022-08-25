@@ -85,7 +85,7 @@ author:
   bio              : "Senior student at Peking Univ, NLP & Semantic Parsing new-comer"
   location         : "Beijing China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "1900012731@pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -106,7 +106,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/18767160/rubywong"
+  stackoverflow    : "18767160/rubywong"
   steam            :
   tumblr           :
   twitter          : 

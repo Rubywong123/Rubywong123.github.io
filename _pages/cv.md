@@ -30,7 +30,7 @@ Work experience
 
 Publications
 ======
-* Please refer to [Homepage](https://Rubywong123.github.io/).
+To be updated soon
   
   
 Teaching Assistant
@@ -45,3 +45,4 @@ Service and leadership
 Skills
 ======
 * C/C++/Python/SQL/Verilog.
+* TOEFL 106 (S 23)
