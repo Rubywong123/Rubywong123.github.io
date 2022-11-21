@@ -33,13 +33,16 @@ Publications
 
 <b>DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation</b>
 
-Yuhang Lai*, Chengxi Li*, <b>Yiming Wang*</b>, Tianyi Zhang*, Ruiqi Zhong*, Luke Zettlemoyer, Scott Wen-tau Yih, Daniel Fried, Sida Wang, Tao Yu
+Yuhang Lai\*, Chengxi Li\*, <b>Yiming Wang\*</b>, Tianyi Zhang\*, Ruiqi Zhong\*, Luke Zettlemoyer, Scott Wen-tau Yih, Daniel Fried, Sida Wang, Tao Yu
+
 <i>arxiv 2022</i>
+
 [[paper]]()[[code]](https://github.com/HKUNLP/DS-1000)[[website]](https://ds1000-code-gen.github.io/)
 
 <b>Query Your Model with Definitions in FrameNet: An Effective Method for Frame Semantic Role Labeling </b>
 
 Ce Zheng, <b>Yiming Wang</b>, Baobao Chang
+
 <i>AAAI-2023</i>
   
 
