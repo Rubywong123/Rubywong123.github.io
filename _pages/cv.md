@@ -20,7 +20,7 @@ Work experience
   * Supervisor: Baobao Chang
 
 * Mar. 2022-Present: Research Assistant
-  * Hong Kong University, NLP Lab
+  * The University of Hong Kong, NLP Lab
   * Supervisor: Tao Yu
 
 * Oct. 2021-Mar. 2022: Intern
@@ -30,7 +30,22 @@ Work experience
 
 Publications
 ======
-To be updated soon
+
+<b>DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation</b>
+
+Yuhang Lai*, Chengxi Li*, <b>Yiming Wang*</b>, Tianyi Zhang*, Ruiqi Zhong*, Luke Zettlemoyer, Scott Wen-tau Yih, Daniel Fried, Sida Wang, Tao Yu
+<i>arxiv 2022</i>
+[[paper]]()[[code]](https://github.com/HKUNLP/DS-1000)[[website]](https://ds1000-code-gen.github.io/)
+
+<b>Query Your Model with Definitions in FrameNet: An Effective Method for Frame Semantic Role Labeling </b>
+
+Ce Zheng, <b>Yiming Wang</b>, Baobao Chang
+<i>AAAI-2023</i>
+  
+
+Scholarship
+======
+* Fall 2022: Jiukun Scholarship
   
   
 Teaching Assistant
@@ -45,4 +60,4 @@ Service and leadership
 Skills
 ======
 * C/C++/Python/SQL/Verilog.
-* TOEFL 106 (S 23)
+* TOEFL 106 (S 23), GRE 326+3.5
