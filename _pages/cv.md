@@ -37,7 +37,7 @@ Yuhang Lai\*, Chengxi Li\*, <b>Yiming Wang\*</b>, Tianyi Zhang\*, Ruiqi Zhong\*,
 
 <i>arxiv 2022</i>
 
-[[paper]]()[[code]](https://github.com/HKUNLP/DS-1000)[[website]](https://ds1000-code-gen.github.io/)
+[[paper]]()[[code]]()[[website]]()
 
 <b>Query Your Model with Definitions in FrameNet: An Effective Method for Frame Semantic Role Labeling </b>
 
