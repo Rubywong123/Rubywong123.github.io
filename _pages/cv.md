@@ -17,11 +17,11 @@ Work experience
 ======
 * Oct. 2021-Present: Research Assistant
   * Peking University
-  * Supervisor: Baobao Chang
+  * Supervisor: Prof. [Baobao Chang](https://cs.pku.edu.cn/info/1181/1543.htm)
 
 * Mar. 2022-Present: Research Assistant
   * The University of Hong Kong, NLP Lab
-  * Supervisor: Tao Yu
+  * Supervisor: Prof. [Tao Yu](https://taoyds.github.io/)
 
 * Oct. 2021-Mar. 2022: Intern
   * AI Innovation Center, Peking University
@@ -37,7 +37,7 @@ Yuhang Lai\*, Chengxi Li\*, <b>Yiming Wang\*</b>, Tianyi Zhang\*, Ruiqi Zhong\*,
 
 <i>arxiv 2022</i>
 
-[[paper]]()[[code]]()[[website]]()
+[[paper]](https://arxiv.org/abs/2211.11501)[[code]](https://github.com/HKUNLP/DS-1000)[[website]](https://ds1000-code-gen.github.io/)
 
 <b>Query Your Model with Definitions in FrameNet: An Effective Method for Frame Semantic Role Labeling </b>
 
@@ -63,4 +63,3 @@ Service and leadership
 Skills
 ======
 * C/C++/Python/SQL/Verilog.
-* TOEFL 106 (S 23), GRE 326+3.5
