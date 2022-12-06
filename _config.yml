@@ -86,7 +86,7 @@ author:
   location         : "Beijing China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=LYVNrhMAAAAJ"
   email            : "1900012731@pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : "18767160/rubywong"
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "@Rubywong878977"
   vine             :
   weibo            :
   xing             :

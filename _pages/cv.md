@@ -44,11 +44,15 @@ Yuhang Lai\*, Chengxi Li\*, <b>Yiming Wang\*</b>, Tianyi Zhang\*, Ruiqi Zhong\*,
 Ce Zheng, <b>Yiming Wang</b>, Baobao Chang
 
 <i>AAAI-2023</i>
+
+[[paper]](https://arxiv.org/abs/2212.02036)
   
 
 Scholarship
 ======
-* Fall 2022: Jiukun Scholarship
+* Fall 2022: Ubiquant Scholarship
+
+* Fall 2022: PKU Merit Student
   
   
 Teaching Assistant
