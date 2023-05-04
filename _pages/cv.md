@@ -57,9 +57,9 @@ Scholarship
   
 Teaching Assistant
 ======
-* Spring 2022: *Design of Digital Logic* Lecturer: [Dong Tong](https://cs.pku.edu.cn/info/1179/1473.htm)
+* Spring 2022: *Design of Digital Logic* Lecturer: Prof. [Dong Tong](https://cs.pku.edu.cn/info/1179/1473.htm)
 
-* Spring 2023: *Data Structures and Algorithms(B)* Lecturer: [Leye Wang](https://wangleye.github.io/)
+* Spring 2023: *Data Structures and Algorithms(B)* Lecturer: Prof. [Leye Wang](https://wangleye.github.io/)
   
 Service and leadership
 ======
