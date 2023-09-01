@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yiming Wang"
   avatar           : "self.jpeg"
-  bio              : "Senior student at Peking Univ, NLP & Semantic Parsing new-comer"
-  location         : "Beijing China"
+  bio              : "First-year graduate student at Harvard Univ, NLP new-comer"
+  location         : "Cambridge MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LYVNrhMAAAAJ"
-  email            : "1900012731@pku.edu.cn"
+  email            : "yimingwang@g.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

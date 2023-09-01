@@ -11,15 +11,17 @@ redirect_from:
 
 Education
 ======
-* (expected) B.S. in Computer Science and Technology, Peking University, 2019-2023
+* M.S. in Data Science, Harvard University
+
+* B.S. in Computer Science and Technology, Peking University, 2019-2023
 
 Work experience
 ======
-* Oct. 2021-Present: Research Assistant
+* Oct. 2021-Jun. 2023: Research Assistant
   * Peking University
   * Supervisor: Prof. [Baobao Chang](https://cs.pku.edu.cn/info/1181/1543.htm)
 
-* Mar. 2022-Present: Research Assistant
+* Mar. 2022-Nov 2022: Research Assistant
   * The University of Hong Kong, NLP Lab
   * Supervisor: Prof. [Tao Yu](https://taoyds.github.io/)
 
@@ -45,11 +47,13 @@ Ce Zheng, <b>Yiming Wang</b>, Baobao Chang
 
 <i>AAAI-2023</i>
 
-[[paper]](https://arxiv.org/abs/2212.02036)
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26642)
   
 
-Scholarship
+Award
 ======
+* Spring 2023: PKU Outstanding Graduate
+
 * Fall 2022: Ubiquant Scholarship
 
 * Fall 2022: PKU Merit Student
@@ -57,9 +61,9 @@ Scholarship
   
 Teaching Assistant
 ======
-* Spring 2022: *Design of Digital Logic* Lecturer: Prof. [Dong Tong](https://cs.pku.edu.cn/info/1179/1473.htm)
-
 * Spring 2023: *Data Structures and Algorithms(B)* Lecturer: Prof. [Leye Wang](https://wangleye.github.io/)
+
+* Spring 2022: *Design of Digital Logic* Lecturer: Prof. [Dong Tong](https://cs.pku.edu.cn/info/1179/1473.htm)
   
 Service and leadership
 ======
